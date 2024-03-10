@@ -71,5 +71,12 @@
         </plugin>
       </plugins>
     </pluginManagement>
+    <distributionManagement>
+    <repository>
+        <id>MAVEN-PROJECT</id> <!-- Repository ID -->
+        <url>https://github.com/Khusheel26/maven-app.git</url> <!-- Repository URL -->
+    </repository>
+</distributionManagement>
+
   </build>
 </project>
